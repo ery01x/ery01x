@@ -36,7 +36,7 @@
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Newglxck"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Æmy"  ></p>
 
 ### 🛠 &nbsp;Software Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
