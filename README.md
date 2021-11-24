@@ -22,7 +22,7 @@
    <a href="https://discord.com/users/853557662603804682" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/playlist/7qhsIkqBskeWZkfGcXx36C" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.instagram.com/eryx606" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/newglxck" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://github.com/ery01x" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </a>
 </p>
 
@@ -34,7 +34,7 @@
 </p>
 <h1 align="center">A young software lover in Turkey.</h1>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Newglxck" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Newglxck&theme=dark&show_icons=true&locale=en&layout=compact" alt="Æmy" /></p>
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Newglxck&theme=dark&show_icons=true&locale=en" alt="Æmy"  ></p>
 
