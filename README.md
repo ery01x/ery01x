@@ -51,6 +51,3 @@ I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
 If you want to support my projects, you can star the projects.
 
-<h3 align="left">Contact with me:</h3>
-<p align="center">
-   <a href="https://discord.gg/7sHUBsQpuh"><img src="https://img.shields.io/badge/allah yok%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
