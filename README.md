@@ -32,7 +32,7 @@
 </div>
 </a>
 </p>
-<h1 align="center">A young software lover in Turkey.</h1>
+<h1 align="center">Young Cyber ​​Sec# Candidate.</h1>
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ery01x&theme=dark&show_icons=true&locale=en&layout=compact" alt="Æmy" /></p>
 
