@@ -4,8 +4,8 @@
 <img src="https://cdn.discordapp.com/banners/853557662603804682/d788aa39a9c6fc86c7c53599a386be86.png?size=300">
 
 <div align="center">
-   <a href="https://discord.com/users/736943936073105418" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/736943936073105418">
+   <a href="https://discord.com/users/853557662603804682" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/853557662603804682">
    </a>
 
 <h1 align="center">Hi 👋, I'm Æmy</h1>
