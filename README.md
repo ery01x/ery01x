@@ -28,7 +28,7 @@
 
 <div>
     <div align="center">
-    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":Æmy" />
+    <img src="https://count.getloli.com/get/@:1337theme=rule34" alt=":Æmy" />
 </div>
 </a>
 </p>
