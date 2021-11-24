@@ -8,7 +8,7 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/853557662603804682">
    </a>
 
-<h1 align="center">Hi 👋, I'm Æmy</h1>
+<h1 align="center">Hi 👋, I'm Eray</h1>
 
 
 <p align="center">
