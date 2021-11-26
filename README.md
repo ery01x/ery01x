@@ -34,10 +34,6 @@
 </p>
 <h1 align="center">Young Cyber ​​Sec# Candidate.</h1>
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ery01x&theme=dark&show_icons=true&locale=en&layout=compact" alt="Æmy" /></p>
-
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ery01x&theme=dark&show_icons=true&locale=en" alt="Æmy"  ></p>
-
 ### 🛠 &nbsp;Software Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
